@@ -59,6 +59,13 @@ var {
 
 .foto { float: left; margin: 0 10px 10px 0; }
 
+.foto_all img {
+    width: 220px;
+    height: 220px;
+    float: left;
+    margin: 0 10px 10px 10px;
+    padding: 0 5px;
+}
 
 code {
   background-color: #f2f2f2;
