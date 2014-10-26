@@ -5,6 +5,6 @@
 <!-- hier de volledige node -->
 
     <h2><?php print $title; ?></h2>
-    <div class="foto"><?php print render($content['field_foto']); ?></div>
+    <div class="foto_all"><?php print render($content['field_foto']); ?></div>
 
 <?php endif; ?>
