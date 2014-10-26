@@ -1,0 +1,2 @@
+Een inhoudstype fotoalbum met een extra field foto, field-type 'Image' ingesteld op onbeperkt, bij manage field onder teaser het foto field toegevoegd (image style op 220x220 crop).
+Een view 'Foto albums' aangemaakt , formaat Content - Teaser. Uiteraard wat css om de afbeeldingen langs elkaar te tonen.
